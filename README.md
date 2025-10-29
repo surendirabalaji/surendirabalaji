@@ -1,5 +1,20 @@
-# 💫 About Me:
-🎓 Recent Computer Science and Engineering graduate from Anna University with a passion for pushing the boundaries of human-computer interaction.<br>🔭 I'm deeply fascinated by the realms of AR/VR, Computer Graphics, Deep Learning, and Game Development.<br>🚀 My journey so far:<br><br>💼 Software Analyst at Citicorp Services India, enhancing financial UIs<br>🔬 Research Intern at IIT Madras, working on cutting-edge AR image processing<br>🧘 Co-inventor of a Digital Twin Based Yoga Assistant (Patent Publised)<br><br>🛠️ Key Projects:<br><br>🤖 Yoga AI: Real-time pose estimation with personalized feedback<br>🏛️ VR Art Museum: Immersive virtual gallery experience<br>🌍 AR Virtual Tours: Augmented reality-enhanced travel guides
+# Hi there 👋
+
+**Master's student in Computer Science @ USC** | Previously studied CSE at Anna University
+
+I like working on projects that combine AI with interactive experiences.
+
+## What I'm interested in
+- UI/UX & Full-Stack Development
+- Computer Vision & Deep Learning
+- Natural Language Processing
+- AR/VR & Computer Graphics
+- Game Development
+
+## Work & Research
+- Software Analyst at Citicorp Services India - worked on financial platform UIs
+- Research Intern at IIT Madras - AR image processing
+- Co-inventor of a Digital Twin Based Yoga Assistant (Patent Published)
 
 
 ## 🌐 Socials:
