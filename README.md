@@ -1,25 +1,40 @@
-# Hi there 👋
+# Surendira Balaji Natarajan
 
-**Master's student in Computer Science @ USC** | Previously studied CSE at Anna University
+MS Computer Science student at USC. I build full-stack applications in Java and Spring with Angular or React front ends, and I build and evaluate LLM systems. Before USC I was a Software Analyst at Citi and a research intern at IIT Madras.
 
-I like working on projects that combine AI with interactive experiences.
+**Available for a co-op from January 2027 and full-time from May 2027**, in software engineering, applied AI / forward-deployed engineering, and ML roles.
 
-## What I'm interested in
-- UI/UX & Full-Stack Development
-- Computer Vision & Deep Learning
-- Natural Language Processing
-- AR/VR & Computer Graphics
-- Game Development
+[Portfolio](https://surendirabalaji.dev?ref=git) · [LinkedIn](https://linkedin.com/in/surendira-balaji-n/) · [surendirabalaji.n@gmail.com](mailto:surendirabalaji.n@gmail.com)
 
-## Work & Research
-- Software Analyst at Citicorp Services India - worked on financial platform UIs
-- Research Intern at IIT Madras - AR image processing
-- Co-inventor of a Digital Twin Based Yoga Assistant (Patent Published)
+## Selected work
 
+**Applied AI**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] https://linkedin.com/in/surendira-balaji-n/
+- [paper-analyst](https://github.com/surendirabalaji/paper-analyst): a multi-agent system that answers questions about a corpus of arXiv papers. A LangGraph supervisor delegates to research, summary and data agents, with RAG over Chroma, live web search through Tavily MCP, and cost/capability routing between two LLM providers with fallback. Deployed on Cloud Run and evaluated with RAGAS on a frozen 44-question test set.
+- [GameBoyWorlds](https://github.com/DhananjayAshok/GameBoyWorlds): co-author of an embodied-AI benchmark that evaluates vision-language agents on grounding, navigation, planning and self-improvement. Under review at ICLR 2027.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+**Full stack**
 
+- [InvestMates](https://github.com/surendirabalaji/InvestMates): a stock portfolio tracker with a React and Vite front end, a Spring Boot 3 / Java 21 REST API, Spring Data JPA and MySQL. Covers holdings, FIFO sell logic with gain/loss, transaction history and watchlists.
+- [Simple Mailer](https://github.com/cegaana/simple-mailer): an open-source TypeScript library and CLI for bulk and transactional email, built for CEGAANA. SQLite-backed dispatch with rate pacing, exponential backoff, crash recovery and pluggable transports.
+- At Citi (July 2024 to July 2025) I built Java and Spring Boot microservices and an operations console in Angular and React, and upgraded Jenkins CI/CD pipelines.
+
+**Systems**
+
+- [distributed-key-value-store](https://github.com/surendirabalaji/distributed-key-value-store): a Raft-replicated key-value store in C++20 over gRPC, with leader election, log replication, exactly-once client semantics and lease reads. Benchmarked at about 6,000 ops/sec on a three-node local cluster before optimization.
+
+**ML and computer vision**
+
+- [Pose-Estimation-FYP](https://github.com/surendirabalaji/Pose-Estimation-FYP): human pose estimation with UniPose in PyTorch, my undergraduate final-year project and the basis of the yoga assistant patent below.
+- [AyurVision](https://github.com/surendirabalaji/AR-Ayur-Vision-Herbal-Classification-Recommendation): herbal plant classification with a CNN exported to ONNX and run inside a Unity AR app, plus a similarity-based recommender.
+- Co-inventor on a published patent for a digital-twin-based yoga assistant.
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| Backend | Java, Spring Boot, Spring Data JPA, Hibernate, REST, gRPC, C++ |
+| Frontend | Angular, React, TypeScript, JavaScript, HTML/CSS |
+| Data | MySQL, SQL, Chroma |
+| AI / ML | Python, PyTorch, TensorFlow, LangGraph, RAG, MCP, RAGAS, NumPy, Pandas |
+| Cloud and tooling | Google Cloud Run, Docker, Git, Maven, CMake |
